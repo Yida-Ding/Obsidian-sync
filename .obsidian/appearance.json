@@ -1,0 +1,15 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "",
+  "interfaceFontFamily": "Cambria",
+  "textFontFamily": "Times New Roman,宋体",
+  "monospaceFontFamily": "Calibri",
+  "baseFontSize": 20,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian",
+    "centering",
+    "hide",
+    "align"
+  ]
+}

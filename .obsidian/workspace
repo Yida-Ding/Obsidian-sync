@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d495e45fab3e9d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "033ee4962b961a83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60b8daa5bbd67335",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6e2de3ff110f46e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063c27956a3aaa02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65bfe2240718a3a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57c65a5333ee8c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1d89c710e6f3e37",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "f16b2f5957272a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a44e328130722e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3febb7815efd0fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1223f6d9fd457a83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7070a680105d105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 908.8333740234375,
+    "collapsed": true
+  },
+  "active": "033ee4962b961a83",
+  "lastOpenFiles": [
+    "README.md",
+    "Notes/2022_谭浩强_C++程序设计第3版_KEY-6X69BPW2.md",
+    "Notes/undefined_谭浩强_C++程序设计第3版_KEY-6X69BPW2.md",
+    "Daily/220822-Mon.md",
+    "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+    "Notes/undefined_Luis Cadarso_Passenger-Centric Integrated Airline Schedule and Aircraft Recovery_KEY-FRD4KW4Q.md",
+    "Notes/2021_Roberti_Exact Methods for the Traveling Salesman Problem with Drone_KEY-PL7AFXIR.md",
+    "Notes/2021_Qu_Communications in Transportation Research：Vision and scope_KEY-YMDT2RLF.md",
+    "Daily_template.md",
+    "Daily/Untitled.md"
+  ]
+}

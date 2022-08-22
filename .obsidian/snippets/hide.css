@@ -1,0 +1,11 @@
+div[data-path$='Images'], 
+div[data-path$='Images'] + div.nav-folder-children 
+{
+	display: none;
+}
+
+div[data-path$='Templates'], 
+div[data-path$='Templates'] + div.nav-folder-children 
+{
+	display: none;
+}

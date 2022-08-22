@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Images",
+  "newFileFolderPath": "images",
+  "userIgnoreFilters": [
+    "Images/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  }
+}
