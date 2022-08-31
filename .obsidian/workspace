@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "033ee4962b961a83",
+        "id": "b3a79682dae9f2be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+            "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
             "mode": "source",
             "source": false
           }
@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "c7070a680105d105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
+              }
+            }
+          },
+          {
             "id": "65bfe2240718a3a4",
             "type": "leaf",
             "state": {
@@ -51,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hybrid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,28 +77,36 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cf39a53bc00132f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 248.5
   },
   "right": {
     "id": "f16b2f5957272a2b",
     "type": "split",
     "children": [
       {
-        "id": "55a44e328130722e",
+        "id": "2047c0303aeb114b",
         "type": "tabs",
         "children": [
           {
-            "id": "3febb7815efd0fea",
+            "id": "3a6da35a0f6d617b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +118,14 @@
             }
           },
           {
-            "id": "1223f6d9fd457a83",
+            "id": "857c50cf72093f78",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c7070a680105d105",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
               }
             }
           }
@@ -125,20 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 908.8333740234375,
+    "width": 432.8333435058594,
     "collapsed": true
   },
-  "active": "033ee4962b961a83",
+  "active": "b3a79682dae9f2be",
   "lastOpenFiles": [
-    "README.md",
-    "Notes/2022_谭浩强_C++程序设计第3版_KEY-6X69BPW2.md",
-    "Notes/undefined_谭浩强_C++程序设计第3版_KEY-6X69BPW2.md",
-    "Daily/220822-Mon.md",
+    "Notes/2022_CNKI_Logisitics.md",
+    "Events/2022-08-TODO.md",
+    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+    "Events/2022-Keyboard.md",
+    "Events/2022-Return.md",
+    "Notes/Pasted image 20220824161353.png.md",
+    "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md",
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
-    "Notes/undefined_Luis Cadarso_Passenger-Centric Integrated Airline Schedule and Aircraft Recovery_KEY-FRD4KW4Q.md",
-    "Notes/2021_Roberti_Exact Methods for the Traveling Salesman Problem with Drone_KEY-PL7AFXIR.md",
-    "Notes/2021_Qu_Communications in Transportation Research：Vision and scope_KEY-YMDT2RLF.md",
-    "Daily_template.md",
-    "Daily/Untitled.md"
+    "Notes/Haoqiang Tan.md",
+    "Events/2022-Course.md"
   ]
 }

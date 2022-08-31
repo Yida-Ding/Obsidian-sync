@@ -5,9 +5,9 @@
 - Publication: [[OR Spectrum]]
 - Date: 2020-09-21
 - DOI: [https://doi.org/10.1007/s00291-020-00607-8](https://doi.org/https://doi.org/10.1007/s00291-020-00607-8)
-- Collection: [[Last-mile]]
+- Collection: [[Last-mile, Data]]
 - PDF Attachments: [Boysen - Last-mile delivery concepts a survey from an oper.pdf](zotero://open-pdf/library/items/6RKHJB85)
-- Tags: #/reading #Transportation #City_logistics #Last-mile_delivery #Survey
+- Tags: #reading #Transportation #City_logistics #Last-mile_delivery #Survey
 
 👣➿👣
 	
@@ -16,8 +16,9 @@
 - Given these basic elements, a specific last-mile delivery concept can now precisely be defined by a chain of storage and transport process steps, where each chain starts at the depot and ends with a handover element.
 ![[Pasted image 20220821123318.png|750]]
 
-#### 1. Human‑driven delivery vans: **[depot>van>man>aHome]**
+#### 1. Human‑driven delivery vans
 - Features:
+	- **[depot>van>man>aHome]**
 	- Delivery vans depart from a central depot, each driven by a human delivery person. 
 	- On a tour along customer homes, the delivery person stops the van at the roadside, approaches a customer home, and hands over a parcel directly to the customer via attended home delivery (aHome).
 - Setup of infrastructure:
@@ -35,8 +36,9 @@
 
 ![[Pasted image 20220822130828.png|775]]
 
-#### 2. Cargo bikes: [depot>van>micro>bike>aHome]
+#### 2. Cargo bikes
 - Features: 
+	- [depot>van>micro>bike>aHome]
 	- Vans to micro-depots and, from there, cargo bikes to customers. 
 	- Micro-depots: Since capacities of cargo bikes are much smaller than those of delivery vans, they need to be replenished multiple times with additional shipments during the day. To avoid time-consuming returns to a central depot, cargo bikes are typically replenished via a network of decentralized micro- (also denoted as satellite) depots, e.g., a garage in a (multi-story) car park, the loading dock of a shop, or a trailer.
 	- Cargo bikes are either manually powered and/or by an electric engine (sustainability); rather small capacities; hard for aging workforce.
@@ -58,8 +60,9 @@
 
 ![[Pasted image 20220822130854.png|775]]
 
-#### 3. Self‑service: [depot>van>locker>self]
+#### 3. Self‑service
 - Features: 
+	- [depot>van>locker>self]
 	- Set up and operate a self-service delivery concept and start with parcel lockers.
 	- Decentralized facility can either be a parcel locker or a shop (i.e., an umbrella term for a decentral collection unit, where shipments for multiple customers are taken over and handled by a human service person)
 - Setup of infrastructure:
@@ -74,7 +77,7 @@
 	
 ![[Pasted image 20220822131114.png|775]]
 
-#### 4. Drones: 
+#### 4. Drones
 - Features: 
 	- Electrically powered; comparatively fast; operate autonomously.
 	- Achieving sustainability, lower costs, and the relief of an aging workforce.
@@ -91,8 +94,6 @@
 			1. (max coverage s.t. # depots) the coverage of drones for a given set of customer locations can be maximized given a limited budget for depots
 			2. (min # depots s.t. enough coverage) the number of depots to be erected to cover a given set of customer locations can be minimized.
 		- Extensions: To bridge a distance between depot and customer beyond a drone’s flight range, recharging stations can be inserted into the distribution network.
-	- Staffing and fleet sizing:
-		- Not only investigate the strategic depot location problem, but simultaneously integrate the tactical drone fleet sizing problem.
 	- Routing and scheduling:
 		- Decision problem: How to get a given set of parcels to customers given a depot network equipped with drones.
 		- Since drones are typically restricted to carry a single shipment at a time, the routing problem in its most basic version reduces to a straightforward assignment of drones to customers. This setting resembles the well-researched parallel machine scheduling problem, where the machines represent drones and jobs their flights to customers.
@@ -117,7 +118,7 @@
 ![[Pasted image 20220822131041.png|775]]
 
 
-#### 5. Autonomous delivery robots:
+#### 5. Autonomous delivery robots
 - Main difference of drone- and bot-based delivery concepts:
 	- Bots travel in pedestrian speed of about 6km/h on side-walks, which considerably slows down their delivery speed, but allows them to move slightly heavier shipments up to 10kg.
 	- Bots face less security regulations, so that, in different field tests, one operator was allowed to supervise dozens of bots. A drone has to be supervised by a dedicated flight operator during all time and is not allowed in neuralgic areas.
@@ -130,7 +131,7 @@
 - Thus, it would be interesting to investigate how customers with different characteristics and requirements should be partitioned among both kinds of autonomous delivery devices and their alternative launching options.
 ![[Pasted image 20220822132559.png|775]]
 
-#### 6. Crowdshipping
+#### 6. Crowdshipping (Crowdsourcing)
 - Features:
 	- Instead of hiring fixedly employed delivery persons, these companies follow the idea of involving many people in the delivery process, professional and non-professional, who are already on the road, have spare capacity, and are willing to detour to consumer locations.
 	- The existence of an online (digital) platform and a related smartphone app.

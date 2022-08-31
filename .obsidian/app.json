@@ -13,5 +13,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 60
-  }
+  },
+  "tabSize": 6
 }

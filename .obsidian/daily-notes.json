@@ -1,6 +1,6 @@
 {
-  "folder": "Daily",
-  "format": "YYMMDD-ddd",
-  "template": "Daily/Daily_template",
+  "folder": "Event",
+  "format": "YYYY-MM-TO\\DO",
+  "template": "Templates/Events_template",
   "autorun": false
 }

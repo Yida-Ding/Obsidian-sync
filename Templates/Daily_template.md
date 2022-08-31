@@ -1,9 +1,0 @@
-# {{date:YYYYMMDD-ddd}} 
-
-## TODO 
-- [ ]  
-
- 
-
-
-
