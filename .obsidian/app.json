@@ -14,5 +14,6 @@
     "margin": "0",
     "downscalePercent": 60
   },
-  "tabSize": 6
+  "tabSize": 6,
+  "defaultViewMode": "preview"
 }

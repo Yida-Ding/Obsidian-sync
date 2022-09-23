@@ -3,5 +3,9 @@
   "mousewheel-image-zoom",
   "obsidian-underline",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "multi-column-markdown",
+  "recent-files-obsidian",
+  "obsidian-outliner",
+  "cm-editor-syntax-highlight-obsidian"
 ]

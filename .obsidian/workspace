@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a79682dae9f2be",
+        "id": "57cb5a38892cd6ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+            "file": "Project/2022_0922_DTCODrpMgmtIdea.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "d6e2de3ff110f46e",
         "type": "tabs",
+        "dimension": 45.94871794871795,
         "children": [
           {
             "id": "063c27956a3aaa02",
@@ -35,12 +36,20 @@
             }
           },
           {
+            "id": "4685c319668cb090",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "c7070a680105d105",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
+                "file": "Project/2022_0922_DTCODrpMgmtIdea.md"
               }
             }
           },
@@ -61,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hybrid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +78,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ade2dfcf9a9ed3aa",
+        "type": "tabs",
+        "dimension": 54.051282051282044,
+        "children": [
           {
             "id": "c1d89c710e6f3e37",
             "type": "leaf",
@@ -77,20 +93,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "cf39a53bc00132f8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 256.5
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -106,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+                "file": "Project/2022_0922_DTCODrpMgmtIdea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+                "file": "Project/2022_0922_DTCODrpMgmtIdea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +144,17 @@
     "width": 432.8333435058594,
     "collapsed": true
   },
-  "active": "b3a79682dae9f2be",
+  "active": "57cb5a38892cd6ea",
   "lastOpenFiles": [
-    "Notes/2022_CNKI_Logisitics.md",
+    "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
+    "Project/2022_0922_DTCODrpMgmtIdea.md",
+    "Project/2022-DTCO-Project.md",
+    "UAV.md",
+    "Events/2022-09-TODO.md",
     "Events/2022-08-TODO.md",
-    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
-    "Events/2022-Keyboard.md",
-    "Events/2022-Return.md",
-    "Notes/Pasted image 20220824161353.png.md",
-    "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md",
-    "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
-    "Notes/Haoqiang Tan.md",
-    "Events/2022-Course.md"
+    "Notes/2022-Shunfen_AIOR.md",
+    "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md",
+    "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md",
+    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
   ]
 }

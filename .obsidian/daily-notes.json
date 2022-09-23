@@ -1,5 +1,5 @@
 {
-  "folder": "Event",
+  "folder": "Events",
   "format": "YYYY-MM-TO\\DO",
   "template": "Templates/Events_template",
   "autorun": false
