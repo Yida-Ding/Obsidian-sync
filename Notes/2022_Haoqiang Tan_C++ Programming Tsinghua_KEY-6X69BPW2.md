@@ -9,24 +9,6 @@
 
 👣➿👣
 
-## Computer Essentials
-- Using Powershell and cmd in VSCode
-	- conda config --set auto_activate_base false
-	- conda activate base; conda deactivate base
-- Uploading code to Git:
-	- go to the directory of workspace
-	- git add .
-	- git commit -m "xxxx"
-	- close the proxy
-	- git push origin main
-- Uploading obsidian notes to Git; Unavailable, can use onedrive later
-- Win+r commands:
-	- shell:startup
-	- **Regedit**
-- Capslock disable:
-	- https://www.intowindows.com/3-ways-to-disable-capslock-key-in-windows-10/
-
-
 #### 第二章-变量
 ![[Pasted image 20220902102930.png|775]]
 - 指针变量分配四个字节的存储空间

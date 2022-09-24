@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+            "file": "Events/2022-Computer.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
+                "file": "Events/2022-Computer.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+                "file": "Events/2022-Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+                "file": "Events/2022-Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +144,9 @@
     "width": 432.8333435058594,
     "collapsed": true
   },
-  "active": "57cb5a38892cd6ea",
+  "active": "063c27956a3aaa02",
   "lastOpenFiles": [
+    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
     "Events/2022-09-TODO.md",
     "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md",
     "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md",
@@ -153,7 +154,6 @@
     "Project/2022_0922_DTCODrpMgmtIdea.md",
     "Project/2022-DTCO-Project.md",
     "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
-    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
     "UAV.md",
     "Events/2022-08-TODO.md"
   ]
