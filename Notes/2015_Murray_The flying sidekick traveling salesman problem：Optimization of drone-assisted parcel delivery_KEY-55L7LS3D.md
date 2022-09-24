@@ -25,7 +25,7 @@
 - UAV Sortie $<i,j,k>$: 
 	- First node (The launch point i): may begin at either the depot (where the UAV is loaded with a parcel for a customer) or from a customer location (where it is loaded by the truck driver with a parcel); must not be the ending depot node
 	- Second node (The delivery point, j): must be a customer that is serviced by the UAV; must be a UAV-eligible customer and must not be the same as the launch point, i
-	- Final node (The rendezvous point, k): either the depot or the location of the truck. If a sortie ends at the truck, another service time may be required for the driver to recover the UAV; may be either a customer or the ending depot, it must not equal either i or j; and the UAV’s travel time from i ! j ! k must not exceed the endurance of the UAV
+	- Final node (The rendezvous point, k): either the depot or the location of the truck. If a sortie ends at the truck, another service time may be required for the driver to recover the UAV; may be either a customer or the ending depot, it must not equal either i or j; and the UAV’s travel time from i-j-k must not exceed the endurance of the UAV
 	- Service time: Prior to launch, a service time may be required for the driver to change the UAV’s battery and to load the parcel.
 - Assumptions:
 	- UAV may visit only one customer per sortie
@@ -37,22 +37,33 @@
 	- A finite set of nodes: total c+1
 	- Truck time and drone time: $\tau_{ij}$ and $\tau_{ij}'$
 	- C12&13: force the truck and the UAV to arrive at node i at the same time.
-	- Maybe for truck or drone, there is only one time associated with each node, so $t_i$ is both arrival time and departure time
+	- The model only considers the arrival time $t$ or $t'$
 - Decision variables:
 	- $x_{ij}\in\{0,1\}$: flow variable for truck;
 	- $y_{ijk}\in\{0,1\}$: flow variable for UAV sortie;
 	- $t_j\geq0,t_j'\geq0$: the time truck/drone arrives at node j;
-	- $p_{ij}\in\{0,1\}$: equals one if truck first visits i and then visits j;
-	- $u_i\in[1,c+2]$: the position of node i in the truck's route;
-
+	- $p_{ij}\in\{0,1\}$: sequence variable, equals one if truck first visits i and then visits j;
+	- $u_i\in\{1,2,...,c+2\}$: the position of node i in the truck's route;
 -  Formulation:
 	- Obj: $\text{min}~t_{c+1}$, with C14 and C15 to link the return time of truck and drone
-	- Const.(2-6): C5?![[Pasted image 20220920105643.png|825]]
-	- Const.(7-11):![[Pasted image 20220920105842.png|825]]
-	- Const.(12-16): time coordination constraint![[Pasted image 20220920105916.png|800]]
-	- Const.(17-21):![[Pasted image 20220920110103.png|800]]
-	- Const.(22-24):![[Pasted image 20220920110217.png|800]]
-	- Const. (25-32):![[Pasted image 20220920110312.png|800]]
+	- Const.(2-6): flow conservation; subtour elimination![[Pasted image 20220920105643.png|825]]
+	- Const.(7-11): flow conservation; truck accomodate drone; truck visiting sequence![[Pasted image 20220920105842.png|825]]
+	- Const.(12-16): truck-drone arrive sychronization; truck arrival time incorporating launch and retrieval![[Pasted image 20220920105916.png|800]]
+	- Const.(17-21): drone arrival time at sortie launch point/final point; drone endurance; accordance of sequence variables![[Pasted image 20220920110103.png|800]]
+	- Const.(22-24): C23 considers two drone sortie i-j-k and l-m-n, $t_l'$ should be greater than $t_k'$![[Pasted image 20220920110217.png|800]]
+	- Const. (25-32): definitions of decision variables![[Pasted image 20220920110312.png|800]]
+- Heuristic solution:
+	- Background: the FSTSP is NP-hard; heuristic solution approaches are required for problems of practical size.
+	- Overview: a route and re-assign heuristic; the procedure begins by solving a TSP that assigns the truck to visit all customers; solveTSP; truckRoute![[Pasted image 20220924152134.png|1200]]
+	- The ordered vector truckSubRoutes initially contains the sequence of stops made by the truck. As the procedure progresses, the truck’s route will be partitioned into numerous subroutes.
+	- Main function:![[Pasted image 20220924152514.png|750]]
+
+
+
+
+
+
+
 	- Example:![[Pasted image 20220920151712.png]]
 		
 

@@ -109,8 +109,5 @@
 - [Schermer. 2019. *A hybrid VNS/Tabu search algorithm for solving the vehicle routing problem with drones and en route operations*](zotero://select/items/1_98LREFQ6)
 	- There are recent studies that allow the rendezvous of a drone and a truck at some locations in a route that are not customer locations. This type of problem is called Vehicle Routing Problem with Drones and En Route Operations (VRPDERO) (Marinelli et al., 2017; Schermer and Moeini, 2019a), which is formulated as MILP (Schermer and Moeini, 2019a). If we allow drones and trucks to meet each other at any point in the network, the synchronization issue may be completely resolved, which has potential to greatly enhance the economic aspect of DTCO.
 
-
-
-
 One research problem, whether we need mobile launching platform? If the rendezvous of a drone and a truck is possible under specific conditions, how much is the saving and time and cost? What is the outcome at different speed limit and condition?
 👣➿👣

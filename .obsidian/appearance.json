@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Cambria",
   "textFontFamily": "Times New Roman,宋体",
   "monospaceFontFamily": "Calibri",
-  "baseFontSize": 26,
+  "baseFontSize": 23,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian",

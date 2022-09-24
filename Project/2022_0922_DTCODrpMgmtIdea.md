@@ -8,6 +8,7 @@
 - Accordingly, there is an urgent need in seeking real-time reactive adjustments to the original truck-drone coordinated schedule, which guarantees safe and reliable operation while maximizing efficiency (or minimizing the cost).
 - In general, the recovery approach towards disruptions is to ensure the feasibility of delivery mode in face of the disrupted situation at the sacrifice of efficiency. While drones are efficient to perform delivery tasks, they are more vulnerable to disruption as compared with trucks, thus it is practical to transit from drone-dominated delivery mode to truck-dominated delivery mode in case of disruption. 
 - While an extensive number of studies have investigated on the efficiency improved by the truck and drone coordination, there is a gap in the literature considering tactical disruption recovery in the field of drone logistics, and this is the first paper that explicitly handles this issue, to the best of our knowledge.
+- The primary mission for the logistic company is to provide timely delivery service to the customers, and they are seeking for the drone technology to dramatically increase the efficiency. However, the current drone technology is not reliable enough (i.e., prone to disruptions) to achieve the ideal schedule proposed in the latest DTCO paper. From the point of view of these companys, they may be afraid that deploying drones may result in case where the demand of some customers is not met due to disruption and lead to a great loss, even if some part of the delivery may be accelerated due to the efficiency of drones. In this case, if there is a real-time decision framework that tells them whenever the disruption happens, we can always revert to (or draw close to) the traditional delivery mode and the demand of customers is always guaranteed, then maybe they will be more confident to adopt the novel drone delivery concept and make progress on it.  
 
 ### Disruption and Recovery
 - Original schedule:
@@ -46,6 +47,7 @@
 	- Less realistic: one cannot get to know all the disruptions before the day.
 	- Easier to implement: we only need the initial state - the original schedule.
 - The problem is whether we can formulate an actually dynamic/reactive decision model, which can adjust our decisions in the real time to deal with emerging disruptions.
+- Currently I just have a vague idea on this framework and could not tell which paper in DTCO has the Arikan's implementation. But my main idea is to build a real-time reactive model, which receives the current known disruptions and the current state as input, and outputs the recovery plan including recovered routing and schedules. The proposed model can be a superset of one of the latest DTCO model, i.e., if there is no disruption, the solution of the proposed model is just the optimal solution of that DTCO model. I think through some investigations of the literature, this kind of model is able to be implemented.  
 
 ### Solution Approach and Outcome
 - We can formulate a complete model and solve it exactly by CPLEX or other exact methods.
