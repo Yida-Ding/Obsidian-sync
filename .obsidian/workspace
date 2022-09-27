@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/2022-09-TODO.md",
+            "file": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2022-09-TODO.md"
+                "file": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md"
               }
             }
           },
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2022-09-TODO.md",
+                "file": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2022-09-TODO.md",
+                "file": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,13 +154,13 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "063c27956a3aaa02",
+  "active": "413fd85aa7142753",
   "lastOpenFiles": [
+    "Events/2022-09-TODO.md",
     "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md",
     "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
     "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md",
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
-    "Events/2022-09-TODO.md",
     "Notes/2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3.md",
     "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md",
     "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md",
