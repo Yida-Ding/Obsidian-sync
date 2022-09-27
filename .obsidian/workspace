@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 330.5
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -153,17 +153,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "413fd85aa7142753",
+  "active": "063c27956a3aaa02",
   "lastOpenFiles": [
     "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md",
-    "Events/2022-09-TODO.md",
+    "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
+    "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md",
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+    "Events/2022-09-TODO.md",
     "Notes/2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3.md",
     "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md",
-    "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
     "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md",
     "Notes/2022-Shunfen_AIOR.md",
-    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
-    "Notes/2022_Computer_Vision.md"
+    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
   ]
 }
