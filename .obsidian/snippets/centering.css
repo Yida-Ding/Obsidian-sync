@@ -4,3 +4,15 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-1 {
+    text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h1 {
+    text-align: center;
+}

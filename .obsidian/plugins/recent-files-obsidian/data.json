@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-Computer",
-      "path": "Events/2022-Computer.md"
-    },
-    {
-      "basename": "2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2",
-      "path": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
-    },
-    {
       "basename": "2022-09-TODO",
       "path": "Events/2022-09-TODO.md"
     },
@@ -17,44 +9,72 @@
       "path": "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md"
     },
     {
-      "basename": "2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5",
-      "path": "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md"
-    },
-    {
       "basename": "2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R",
       "path": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
     },
     {
-      "basename": "2022_0922_DTCODrpMgmtIdea",
-      "path": "Project/2022_0922_DTCODrpMgmtIdea.md"
+      "basename": "2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3",
+      "path": "Notes/2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3.md"
     },
     {
-      "basename": "2022-DTCO-Project",
-      "path": "Project/2022-DTCO-Project.md"
+      "basename": "2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B",
+      "path": "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md"
     },
     {
       "basename": "2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D",
       "path": "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md"
     },
     {
-      "basename": "2022-08-TODO",
-      "path": "Events/2022-08-TODO.md"
+      "basename": "2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D",
+      "path": "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md"
     },
     {
       "basename": "2022-Shunfen_AIOR",
       "path": "Notes/2022-Shunfen_AIOR.md"
     },
     {
-      "basename": "2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D",
-      "path": "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md"
-    },
-    {
-      "basename": "2022_鸟哥的Linux私房菜_KEY-IELW7EIZ",
-      "path": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md"
+      "basename": "2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2",
+      "path": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
     },
     {
       "basename": "2022_Computer_Vision",
       "path": "Notes/2022_Computer_Vision.md"
+    },
+    {
+      "basename": "2022_CNKI_Logisitics",
+      "path": "Notes/2022_CNKI_Logisitics.md"
+    },
+    {
+      "basename": "2021_Cadarso_Passenger-Centric Integrated Airline Schedule and Aircraft Recovery_KEY-V7JJNLPI",
+      "path": "Notes/2021_Cadarso_Passenger-Centric Integrated Airline Schedule and Aircraft Recovery_KEY-V7JJNLPI.md"
+    },
+    {
+      "basename": "2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5",
+      "path": "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md"
+    },
+    {
+      "basename": "20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation",
+      "path": "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md"
+    },
+    {
+      "basename": "2022-08-TODO",
+      "path": "Events/2022-08-TODO.md"
+    },
+    {
+      "basename": "20220925-DrpMgmtNotes",
+      "path": "Project/20220925-DrpMgmtNotes.md"
+    },
+    {
+      "basename": "2022-DTCO-Project",
+      "path": "Project/2022-DTCO-Project.md"
+    },
+    {
+      "basename": "2022-Computer",
+      "path": "Events/2022-Computer.md"
+    },
+    {
+      "basename": "2022_鸟哥的Linux私房菜_KEY-IELW7EIZ",
+      "path": "Notes/2022_鸟哥的Linux私房菜_KEY-IELW7EIZ.md"
     },
     {
       "basename": "2022-Course",
@@ -63,10 +83,6 @@
     {
       "basename": "2022_Path_Planning",
       "path": "Notes/2022_Path_Planning.md"
-    },
-    {
-      "basename": "2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B",
-      "path": "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md"
     },
     {
       "basename": "2022_Computers",

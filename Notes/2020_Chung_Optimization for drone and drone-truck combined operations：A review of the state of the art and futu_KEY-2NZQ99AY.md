@@ -13,29 +13,20 @@
 
 ### Overview
 - Drone operations (DO): specify the case where only drones are used.
-- Drone-truck combined operations (DTCO): defined as a system in which a drone and a truck work together as a team to achieve tasks such as delivery/collection of items, reconnaissance, inspection, monitoring, etc.
-- The relatively short travel range and limited capacity issues could be resolved, and the utility of drones can be further enhanced if drones are used with ground vehicles (e.g., trucks) in tandem.
-- Comparision of drones and trucks:![[Pasted image 20220915115153.png|700]]
+- Drone-truck combined operations (DTCO): 
+	- Defined as a system in which a drone and a truck work together as a team to achieve tasks such as delivery/collection of items, reconnaissance, inspection, monitoring, etc.
+	- The relatively short travel range and limited capacity issues could be resolved, and the utility of drones can be further enhanced if drones are used with ground vehicles (e.g., trucks) in tandem.
+- Comparision of drones and trucks:![[Pasted image 20220915115153.png|1000]]
 - Classification of models regarding DTCO: 
 	- Traveling salesman problem with drone (TSPD), see, e.g., Agatz and Bouman (2018), Ha et al. (2018), Murray and Chu (2015), Seifried (2019)
 	- Vehicle routing problem with drones (VRPD), see, e.g., Wang et al. (2017), Wang and Sheu (2019).
-- Current situation of drone logisitics:
-	- Technologies for DO and DTCO application have been improving rapidly, and have already reached a stage where it can be implemented commercially. Thus, systematic investigations pertaining to the operational implications of the DO and DTCO applications are needed.
-	- DTCO and its application have not been covered extensively in the literature, despite its advantage over drone only systems.
-	- A plausible reason for this could be: the concept of DTCO is still new to researchers and practitioners; DTCO models are complex in nature; and the technology is still in the emerging phase.
-- Problem specifics (i.e., topics) of DO and DTCO:
+- Problem types of DO and DTCO:
 	- A particular problem type, e.g., routing for a set of locations, can be used for multiple application areas, e.g., logistics, security, and entertainment.
-	- 1) routing for a set of locations, 2) area coverage, 3) search operations, 4) scheduling for DO and DTCO, 5) task assignment, and 6) other problems e.g. path planning
-- Features and categories extracted from literature:![[Pasted image 20220915123301.png|1175]]
-- Routing: in applications such as delivery and surveillance, a drone has to visit a set of locations to complete a task.
-- Modelling routing problems: the most popular modeling approach for this problem is TSP- and/or VRP-based.
-- Routing VS. path planning:
-	- In routing, one has to find an optimal route to realize a given objective, e.g., minimize the travel distance.
-	- Path planning is related to how the steering is controlled for every, e.g., 2 m to follow a predetermined path, avoid obstacles, minimize battery consumption, etc.
-- Vehicle characteristics and constraints: the battery specific issues (recharging and/or swapping), drone capacity, and payload weight on energy consumption
+	- Problem types: 1) routing for a set of locations, 2) area coverage, 3) search operations, 4) scheduling for DO and DTCO, 5) task assignment, and 6) other problems e.g. path planning
+- Features and categories extracted from literature:![[Pasted image 20220915123301.png|1500]]
 
 ### DTCO Models
-- Schematic representation of the basic component (sortie and operation):![[Pasted image 20220916023219.png|825]]
+- Schematic representation of the basic component (sortie and operation):![[Pasted image 20220916023219.png|1100]]
 - Typical DTCO models:
 	- Single-drone-single-truck models
 	- FSTSP formulation：Murray and Chu (2015)
@@ -44,15 +35,6 @@
 	- Multiple-drone-single-truck models：PDSTSP (Murray and Chu, 2015), mFSTSP (Murray and Raj, 2019), and MVDRP (Poikonen and Golden, 2020)
 	- Multiple-drone-multiple-truck models：multiple drone PDSTSP (Ham, 2018), VRP with drones using service hubs (Wang and Sheu, 2019), and multiple FSTSP (mFSTSP) (Kitjacharoenchai et al., 2019)
 	- ... see Page 20 for more variants
-- The number of drones and trucks used is an important parameter in DTCO problems:
-	- If only single drone and single truck are used, then the resulting problem is in general considered as either TSP-D (Agatz and Bouman, 2018; Ha et al., 2018) or FSTSP (Murray and Chu, 2015)
-- Synchronization issue for truck and drone:
-	- It is not an easy task for both vehicles to arrive at a rendezvous node at the same time.
-	- A vehicle must wait for the other vehicle, and this will be a significant cost.
-	- When synchronization is required, most papers consider the case where a drone or a truck waits for the other at the predetermined customer node.
-	- A pseudo-node approach: the drone and the truck can meet to eliminate the waiting time (Chung and Sah, 2020).
-	- Service hubs: (Wang and Sheu, 2019)
-	- Rendezvous of a drone and a truck en route (Marinelli et al., 2017; Schermer and Moeini, 2019a), i.e., meeting at some point in a route, which is not a customer location.
 - Objective functions:
 	- Minimization of the tour completion time or makespan.
 	- Minimization of the total cost: maintenance cost, battery price, labor, etc; waiting time; parking fees for trucks, battery capacity of drones, physical or cyber attacks on drones while they are waiting; fixed truck cost and the travel cost of drones and trucks.
@@ -61,6 +43,13 @@
 	- Drone specifications such as the flight range, battery life, and carrying capacity limit the operational boundary of DO and DTCO
 	- Current DTCO research seeks solutions with such technical limitations as constraints.
 	- Research papers published on the DO- and DTCO-based delivery systems do not usually give enough attention to the obstacle avoidance technology because this may need to be addressed more in detail at the application level.
+- Synchronization issue for truck and drone:
+	- It is not an easy task for both vehicles to arrive at a rendezvous node at the same time.
+	- A vehicle must wait for the other vehicle, and this will be a significant cost.
+	- When synchronization is required, most papers consider the case where a drone or a truck waits for the other at the predetermined customer node.
+	- A pseudo-node approach: the drone and the truck can meet to eliminate the waiting time (Chung and Sah, 2020).
+	- Service hubs: (Wang and Sheu, 2019)
+	- Rendezvous of a drone and a truck en route (Marinelli et al., 2017; Schermer and Moeini, 2019a), i.e., meeting at some point in a route, which is not a customer location.
 
 ### Solution Methodology
 - Heuristic: 
@@ -77,7 +66,7 @@
 	- Continuous approximation (CA) techniques replace the numerical methods by analytical techniques, and the detailed data is replaced by concise summaries
 	- The problem can be reduced into a smaller set of parameters. Then, the impact of these parameters on the outcome of the problem can be determined.
 
-### Future research areas:
+### Future research directions
 - Incorporating uncertainty:
 	- There is always uncertainty in the air traffic and ground road networks. The uncertainty can be in the form of traffic conditions including accidents, natural disasters such as earthquakes and hurricanes, and man-made calamities such as riots, protests, political disturbances, etc.
 	- In addition, drone travel may be affected by weather conditions such as extreme temperatures, precipitation, fog, humidity, and wind. In particular, the battery life, flying range, and drone speed may be impacted by these factors.
@@ -111,3 +100,4 @@
 
 One research problem, whether we need mobile launching platform? If the rendezvous of a drone and a truck is possible under specific conditions, how much is the saving and time and cost? What is the outcome at different speed limit and condition?
 👣➿👣
+

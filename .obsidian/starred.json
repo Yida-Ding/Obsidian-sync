@@ -2,21 +2,6 @@
   "items": [
     {
       "type": "file",
-      "title": "2022-09-TODO",
-      "path": "Events/2022-09-TODO.md"
-    },
-    {
-      "type": "file",
-      "title": "2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2",
-      "path": "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md"
-    },
-    {
-      "type": "file",
-      "title": "2022_Computer_Vision",
-      "path": "Notes/2022_Computer_Vision.md"
-    },
-    {
-      "type": "file",
       "title": "2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY",
       "path": "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md"
     },
@@ -27,8 +12,13 @@
     },
     {
       "type": "file",
-      "title": "2022_0922_DTCODrpMgmtIdea",
-      "path": "Project/2022_0922_DTCODrpMgmtIdea.md"
+      "title": "20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation - 副本",
+      "path": "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md"
+    },
+    {
+      "type": "file",
+      "title": "2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R",
+      "path": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
     }
   ]
 }

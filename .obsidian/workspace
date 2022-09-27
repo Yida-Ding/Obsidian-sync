@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "57cb5a38892cd6ea",
+        "id": "413fd85aa7142753",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/2022-Computer.md",
+            "file": "Events/2022-09-TODO.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2022-Computer.md"
+                "file": "Events/2022-09-TODO.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2022-Computer.md",
+                "file": "Events/2022-09-TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,30 +131,39 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2022-Computer.md",
+                "file": "Events/2022-09-TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b19febe023b7ab90",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 432.8333435058594,
+    "width": 100,
     "collapsed": true
   },
-  "active": "063c27956a3aaa02",
+  "active": "413fd85aa7142753",
   "lastOpenFiles": [
-    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
-    "Events/2022-09-TODO.md",
     "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md",
-    "Notes/2021_Alnaggar_Crowdsourced delivery：A review of platforms and academic literature_KEY-479EQCY5.md",
+    "Events/2022-09-TODO.md",
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
-    "Project/2022_0922_DTCODrpMgmtIdea.md",
-    "Project/2022-DTCO-Project.md",
+    "Notes/2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3.md",
+    "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md",
     "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
-    "UAV.md",
-    "Events/2022-08-TODO.md"
+    "Notes/2022_Wandelt_Toward a Reference Experimental Benchmark for Solving Hub Location Problems_KEY-YDJGK96D.md",
+    "Notes/2022-Shunfen_AIOR.md",
+    "Notes/2022_Haoqiang Tan_C++ Programming Tsinghua_KEY-6X69BPW2.md",
+    "Notes/2022_Computer_Vision.md"
   ]
 }
