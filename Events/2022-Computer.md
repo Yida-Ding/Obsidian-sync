@@ -8,6 +8,10 @@
 	- git commit -m "xxxx"
 	- close the proxy
 	- git push origin main
+- Clone others repo and make it my repo:
+	- git clone \[others repo]
+	- create my new repo on github
+	-  git remote set-url origin git@github.com:yourname/SecondProject.git`
 - Uploading obsidian notes to Git:
 	- in obsidian Ctrl+shift+p, git commit all changes
 	- close the proxy

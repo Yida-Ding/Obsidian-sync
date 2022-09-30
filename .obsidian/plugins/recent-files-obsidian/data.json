@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-Computer",
+      "path": "Events/2022-Computer.md"
+    },
+    {
       "basename": "2022_Linux Basics_KEY-IELW7EIZ",
       "path": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md"
+    },
+    {
+      "basename": "2012_Steven Prata_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6",
+      "path": "Notes/2012_Steven Prata_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6.md"
+    },
+    {
+      "basename": "2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D",
+      "path": "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md"
+    },
+    {
+      "basename": "2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R",
+      "path": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
     },
     {
       "basename": "2022-09-TODO",
@@ -21,16 +37,8 @@
       "path": "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md"
     },
     {
-      "basename": "2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D",
-      "path": "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md"
-    },
-    {
       "basename": "20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation",
       "path": "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md"
-    },
-    {
-      "basename": "2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R",
-      "path": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
     },
     {
       "basename": "2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3",
@@ -75,10 +83,6 @@
     {
       "basename": "2022-DTCO-Project",
       "path": "Project/2022-DTCO-Project.md"
-    },
-    {
-      "basename": "2022-Computer",
-      "path": "Events/2022-Computer.md"
     },
     {
       "basename": "2022-Course",

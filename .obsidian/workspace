@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "413fd85aa7142753",
+        "id": "d04f4b8f0cd912b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+            "file": "Events/2022-Computer.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md"
+                "file": "Events/2022-Computer.md"
               }
             }
           },
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+                "file": "Events/2022-Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+                "file": "Events/2022-Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,17 +153,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "413fd85aa7142753",
+  "active": "d04f4b8f0cd912b8",
   "lastOpenFiles": [
+    "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+    "Notes/2012_Steven Prata_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6.md",
+    "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
+    "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
+    "Notes/undefined_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6.md",
     "Events/2022-09-TODO.md",
     "Events/2022-08-TODO.md",
     "Events/2022-09-ETS.md",
-    "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
     "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md",
-    "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
-    "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md",
-    "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
-    "Notes/2019_Shakhatreh_Unmanned Aerial Vehicles (UAVs)：A Survey on Civil Applications and Key Research Challenges_KEY-M7PYJPH3.md",
-    "Notes/2017_Carlsson_Coordinated Logistics with a Truck and a Drone_KEY-LH8KQ48B.md"
+    "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md"
   ]
 }

@@ -1,19 +1,9 @@
 {
-  "promptDelete": false,
-  "readableLineLength": false,
-  "strictLineBreaks": false,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "Images",
-  "newFileFolderPath": "images",
-  "userIgnoreFilters": [
-    "Images/"
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
   ],
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 60
-  },
-  "tabSize": 6,
-  "defaultViewMode": "preview"
+  "readableLineLength": false,
+  "promptDelete": false
 }
