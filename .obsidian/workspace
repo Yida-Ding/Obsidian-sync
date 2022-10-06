@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/2022-10-TODO.md",
+            "file": "Events/2022-Computer.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/2022-10-TODO.md"
+                "file": "Events/2022-Computer.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/2022-10-TODO.md",
+                "file": "Events/2022-Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/2022-10-TODO.md",
+                "file": "Events/2022-Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "d04f4b8f0cd912b8",
   "lastOpenFiles": [
+    "Events/2022-10-TODO.md",
     "Events/2022-09-TODO.md",
     "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
     "Events/2022-Computer.md",
@@ -163,7 +164,6 @@
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
     "Notes/undefined_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6.md",
     "Events/2022-08-TODO.md",
-    "Events/2022-09-ETS.md",
-    "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md"
+    "Events/2022-09-ETS.md"
   ]
 }

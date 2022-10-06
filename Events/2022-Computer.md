@@ -21,6 +21,11 @@
 	- **Regedit**
 - Capslock disable:
 	- https://www.intowindows.com/3-ways-to-disable-capslock-key-in-windows-10/
+- Linux version:
+	- lsb_release
+	- uname -a
+	- 
+
 
 
 
