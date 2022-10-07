@@ -9,6 +9,11 @@
 
 👣➿👣
 
+#### Turtlebot
+- roslaunch turtlebot_bringup minimal.launch
+- roslaunch turtlebot_teleop keyboard_teleop.launch
+- roslaunch kinect2_bridge kinect2_laser.launch
+
 ### ROS
 - ros composition:![[Pasted image 20220927235212.png]]
 - 通信机制 - 计算图：
