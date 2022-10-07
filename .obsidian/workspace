@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+            "file": "Events/2022-10-TODO.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md"
+                "file": "Events/2022-10-TODO.md"
               }
             }
           },
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+                "file": "Events/2022-10-TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+                "file": "Events/2022-10-TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +156,10 @@
   },
   "active": "d04f4b8f0cd912b8",
   "lastOpenFiles": [
+    "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
     "Events/2022-Computer.md",
     "Events/2022-10-TODO.md",
     "Events/2022-09-TODO.md",
-    "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
     "Notes/2012_Steven Prata_C++ Primer Plus 6th edition zh_KEY-9DVV2AW6.md",
     "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md",
     "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md",
