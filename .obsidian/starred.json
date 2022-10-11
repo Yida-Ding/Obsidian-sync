@@ -2,33 +2,13 @@
   "items": [
     {
       "type": "file",
-      "title": "2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY",
-      "path": "Notes/2020_Chung_Optimization for drone and drone-truck combined operations：A review of the state of the art and futu_KEY-2NZQ99AY.md"
-    },
-    {
-      "type": "file",
-      "title": "2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D",
-      "path": "Notes/2015_Murray_The flying sidekick traveling salesman problem：Optimization of drone-assisted parcel delivery_KEY-55L7LS3D.md"
-    },
-    {
-      "type": "file",
-      "title": "20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation - 副本",
-      "path": "Project/20220925-IntegratedDisruptionRecoveryOfDroneTruckCoordinatedDeliverySystem-Motivation.md"
-    },
-    {
-      "type": "file",
-      "title": "2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R",
-      "path": "Notes/2020_Boysen_Last-mile delivery concepts：a survey from an operational research perspective_KEY-HAXH3U5R.md"
-    },
-    {
-      "type": "file",
-      "title": "2022_鸟哥的Linux私房菜_KEY-IELW7EIZ",
-      "path": "Notes/2022_Linux Basics_KEY-IELW7EIZ.md"
-    },
-    {
-      "type": "file",
       "title": "2022-10-TODO",
       "path": "Events/2022-10-TODO.md"
+    },
+    {
+      "type": "file",
+      "title": "2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE",
+      "path": "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md"
     }
   ]
 }

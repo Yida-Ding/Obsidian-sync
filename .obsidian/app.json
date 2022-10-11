@@ -5,5 +5,6 @@
     "en-US"
   ],
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Images"
 }
