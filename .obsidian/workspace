@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
+            "file": "Events/2022-10-TODO.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md"
+                "file": "Events/2022-10-TODO.md"
               }
             }
           },
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "f16b2f5957272a2b",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
+                "file": "Events/2022-10-TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
+                "file": "Events/2022-10-TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +156,15 @@
   },
   "active": "d9ac1da6916e5c5a",
   "lastOpenFiles": [
+    "Notes/2021_Roberti_Exact Methods for the Traveling Salesman Problem with Drone_KEY-8TE5PXUF.md",
+    "Notes/2019_Xia_Drone scheduling to monitor vessels in emission control areas_KEY-4KJPHUMJ.md",
+    "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
+    "Events/2022-10-TODO.md",
+    "Notes/2022_Linux Basics_KEY-IELW7EIZ.md",
+    "Notes/2022_Computers.md",
     "Pasted image 20221011141426.png",
     "Pasted image 20221011141408.png",
     "Pasted image 20221011141349.png",
-    "Pasted image 20221011141259.png",
-    "Pasted image 20221009194603.png",
-    "Notes/2021_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
-    "Events/2022-Computer.md",
-    "Notes/2019_Xia_Drone scheduling to monitor vessels in emission control areas_KEY-4KJPHUMJ.md",
-    "Notes/undefined_Choudhury_Eﬃcient Large-Scale Multi-Drone Delivery using Transit Networks_KEY-Q6RTD7DE.md",
-    "Notes/2022_Qu_Replacing urban trucks via ground–air cooperation_KEY-WMH84NLR.md"
+    "Pasted image 20221011141259.png"
   ]
 }
