@@ -10,9 +10,12 @@
 👣➿👣
 
 #### Turtlebot
+- roscore
 - roslaunch turtlebot_bringup minimal.launch
 - roslaunch turtlebot_teleop keyboard_teleop.launch
 - roslaunch kinect2_bridge kinect2_laser.launch
+- roslaunch turtlebot_navigation kinect2_gmapping.launch
+- roslaunch turtlebot_rviz_launchers view_navigation.launch
 
 ### ROS
 - ros composition:![[Pasted image 20220927235212.png]]
